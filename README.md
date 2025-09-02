@@ -17,6 +17,8 @@ This project simulates the formation and reconstruction of digital holograms usi
 - **Interference & Holography**: Models the interaction between object and reference waves to produce a digital hologram.
 - **Inverse Reconstruction**: Recovers the object field by back-propagating the recorded intensity using Fourier techniques.
 - **Phase Objects**: Optionally adds synthetic phase to simulate transparent or refractive structures.
+![](holo_outputs/simulated_hologram.png)
+
 
 ## 🚀 Features
 - Adjustable parameters: grid size, wavelength, propagation distance, reference wave tilt, phase strength.

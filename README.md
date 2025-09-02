@@ -20,6 +20,8 @@ This project simulates the formation and reconstruction of digital holograms usi
 ![](holo_outputs/simulated_hologram.png)
 
 
+![](holo_outputs/reconstruction.png)
+
 ## 🚀 Features
 - Adjustable parameters: grid size, wavelength, propagation distance, reference wave tilt, phase strength.
 - Supports both on-axis and off-axis reference waves.
